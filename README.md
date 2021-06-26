@@ -10,7 +10,7 @@
  ```
  
 ## Support
- - If you have any questions about the script feel free to contact me on Discord: `Melodic#9770`, or submit an issue in the repository.
+ - If you have any questions about the script feel free to contact me on Discord: `Melodic#9770`, [create an issue](https://github.com/MichaelCoding25/Simple-Persistent-Flashlight/issues/new) in the repository, or ask in the [FiveM Forum](https://forum.cfx.re/t/release-free-simple-persistent-flashlight/3586427).
  
 ## Performance
  - The script is very minimal and as such should have no hit on performance.
