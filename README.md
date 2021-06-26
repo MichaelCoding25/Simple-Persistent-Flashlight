@@ -9,6 +9,9 @@
  start persistent-flashlight
  ```
  
+## Support
+ - If you have any questions about the script feel free to contact me on Discord: `Melodic#9770`, or submit an issue in the repository.
+ 
 ## Performance
  - The script is very minimal and as such should have no hit on performance.
  - It only utilizes `0.01ms` of cpu, and in addition uses garbage collection for the memory so that also stays very low.
@@ -16,10 +19,10 @@
  
 ## Changelog
 
- ### 1.0.1
+### 1.0.1
  
  - Fixed typos
  
- ### 1.0.0
+### 1.0.0
  
  - Initial script
